@@ -1,2 +1,1 @@
-# antida
-Задание от Antida software
+# lfm-antida
